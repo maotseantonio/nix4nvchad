@@ -412,7 +412,7 @@ You can use your own nvchad by providing [Starter](https://github.com/NvChad/sta
       inputs.nixpkgs.follows = "nixpkgs";
     };
     nvchad-starter = {
-      url = "github.com:NvChad/starter";
+      url = "github.com:maotseantonio/nvchad_config";
       flakes = false;
     }
     # NvChad:
