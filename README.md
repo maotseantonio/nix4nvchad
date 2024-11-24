@@ -1,3 +1,5 @@
+This is nvchadfornix fork for my personal use and include my nvchad_config flake input.
+
 # NvChad on Nix
 
 ![logo](https://nvchad.com/screenshots/onedark.webp)
